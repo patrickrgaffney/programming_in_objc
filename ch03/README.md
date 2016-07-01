@@ -11,7 +11,7 @@ No programs.
 ## 3.3 –An Objective-C Class for Working with Fractions
 
 - **Program 3.1:** `fractions.m`
-- **Program 3.2:** `myFraction.m`
+- **Program 3.2:** `Fraction.m`
 
 ## 3.4 – The `@interface` Section
 
@@ -23,11 +23,11 @@ No programs.
 
 ## 3.6 – The `program` Section
 
-- **Program 3.3:** `myFraction2.m`
+- **Program 3.3:** `Fraction.m`
 
 ## 3.7 – Accessing Instance Variables and Data Encapsulation
 
-- **Program 3.4:** `myFraction3.m`
+- **Program 3.4:** `Fraction.m`
 
 ## Exercises
 
