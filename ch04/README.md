@@ -102,10 +102,10 @@ answer += 6;
 > - `(3.31 x 10^-8 + 2.01 x 10^-7) / (7.16 x 10^-6 + 2.01 x 10^-8)`
 
 ```objc
-    double num   = 3.31e-8 + 2.01e-7;
-    double denom = 7.16e-6 + 2.01e-8;
-    NSLog(@"(3.31e-8 + 2.01e-7) / (7.16e-6 + 2.01e-8) = %.2e", 
-        num / denom);
+double num   = 3.31e-8 + 2.01e-7;
+double denom = 7.16e-6 + 2.01e-8;
+NSLog(@"(3.31e-8 + 2.01e-7) / (7.16e-6 + 2.01e-8) = %.2e", 
+    num / denom);
 ```
 
 > **Exercise 4.6:** *Complex* number are numbers that contain two components: 
