@@ -1,3 +1,4 @@
 *.o
 a.out
 **/examples/
+.DS_Store
