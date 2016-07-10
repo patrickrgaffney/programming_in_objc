@@ -103,7 +103,7 @@ You can make a global counter variable in the `Fraction` class, `gAddCounter`, a
 > **Exercise 10.4:** Using `typedef` and enumerated data types, define a type `Day` with the possible values of `Sunday`, `Monday`, etc.
 
 ```objc
-typdef enum {
+typedef enum {
     SUNDAY,
     MONDAY,
     TUESDAY,
